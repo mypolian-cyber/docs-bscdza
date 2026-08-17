@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-zaxzgj.salamkita.shop/sitemap.xml
